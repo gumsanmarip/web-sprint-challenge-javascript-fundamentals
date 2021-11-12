@@ -16,7 +16,7 @@ function myFunction() {
 myFunction();
 
 //🚀🚀🚀 ⬇️ 📝 Explanation ⬇️ 📝 🚀🚀🚀: 
-
+//nestedFunction can access the variable 'internal' because it can access variables in myFunction. 
 
 
 

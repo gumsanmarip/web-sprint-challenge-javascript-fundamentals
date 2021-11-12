@@ -44,7 +44,9 @@ Principle 3: New binding
     object created by constructor function.
 Principle 4: Explicit binding
     using a certain object as this using .call(), .apply(), or .bind().
+
 5. Why do we need super() in an extended class?
+Because it is used to access and call functions on an object's parent.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 

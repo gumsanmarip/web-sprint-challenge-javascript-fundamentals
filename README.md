@@ -30,10 +30,10 @@ Edit this document to include your answers after each question. Make sure to lea
 .filter creates an array with the test that passes as true 
 
 2. Explain the difference between a callback and a higher order function.
-a callback function passes to another function and is called and higher order function takes functions and its arguments and returns a function
+    a callback function passes to another function and is called and higher order function takes functions and its arguments and returns a function
 
 3. Explain what a closure is.
-closure is when there is another function inside a function and has access to the elements inside function
+    closure is when there is another function inside a function and has access to the elements inside function
 
 4. Describe the four principles of the 'this' keyword.
 Principle 1: Window/Global Object Binding
@@ -46,7 +46,7 @@ Principle 4: Explicit binding
     using a certain object as this using .call(), .apply(), or .bind().
 
 5. Why do we need super() in an extended class?
-Because it is used to access and call functions on an object's parent.
+    Because it is used to access and call functions on an object's parent.
 
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade. 
 
